@@ -1,6 +1,12 @@
 
 <tr><td valign="top" width="100%">
+👋🏽 Hi, my name is Zachary
 
+🌇 Former Californian now Austin local, with a passion for web development and developing elegant solutions to complex problems
+
+📚 Currently learning React
+
+## <div align="center">Recent Projects:<div>
 
 
 ## <div align="center">Frontend Skills</div>
@@ -16,9 +22,8 @@
 
 </td></tr>  
 
-## Recent Projects:
 
-## Connect
+## <div align="center">Let's Connect<div>
 <div align="center">
 <a href="https://dev.to/zachaxd" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
