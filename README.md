@@ -2,7 +2,7 @@
 <tr><td valign="top" width="100%">
 👋🏽 Hi, my name is Zachary
 
-🌇 Former Californian now Austin local, with a passion for web development and developing elegant solutions to complex problems
+🌇 Austin local with a passion for web development
 
 📚 Currently learning React
 
