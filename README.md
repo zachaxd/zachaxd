@@ -7,8 +7,13 @@
 📚 Currently learning React.
 
 ## <div align="center">Recent Projects:<div>
-
-
+- Creator Marketplace
+- Rep Tracker
+- Portfolio
+- ChatGPT YT Summary
+- AutoThumbnail
+- Suggest Title YT
+ 
 ## <div align="center">Frontend Skills</div>
 <div align="center"> 
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
