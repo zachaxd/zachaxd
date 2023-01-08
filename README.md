@@ -1,10 +1,10 @@
 
 <tr><td valign="top" width="100%">
-👋🏽 Hi, my name is Zachary
+👋🏽 Hi, my name is Zachary.
 
-🌇 Austin local with a passion for web development
+🌇 Austin local with a passion for web development.
 
-📚 Currently learning React
+📚 Currently learning React.
 
 ## <div align="center">Recent Projects:<div>
 
