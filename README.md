@@ -26,8 +26,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>   
 </div>
 
-</td></tr>  
-
 
 ## <div align="center">Let's Connect<div>
 <div align="center">
